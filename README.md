@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ImBartex
-- 👀 I’m interested in doing nearly everything associated with coding.
-- 🌱 I’m currently learning nodejs and c#
-- 💞️ I’m looking to collaborate on some big projects.
-- 📫 How to reach me? ImBartex#8855 on Discord
+- 👋 Hi, I’m @kyanbasu also known as bnm
+- 👀 I’m interested in doing nearly everything associated with coding/IT.
+- 🌱 I’m currently learning js, c#, python and other languages.
+- 🎈 I’m looking to collaborate on some projects.
+- 📧 How to reach me? bnm#9999 on Discord.
 
 <!---
-ImBartex/ImBartex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+these are comments
 --->
