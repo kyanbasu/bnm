@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyanbasu also known as bnm
+- 👋 Hi, I’m @kyanbasu also known as bnm 🇵🇱
 - 👀 I’m interested in doing nearly everything associated with coding/IT.
 - 🌱 I’m currently learning js, c#, python and other languages.
 - 🎈 I’m looking to collaborate on some projects.
@@ -6,4 +6,5 @@
 
 <!---
 these are comments
+⭐⭐⭐  kyanbasu/kyanbasu is a special repository: its README.md will appear on your profile! 
 --->
