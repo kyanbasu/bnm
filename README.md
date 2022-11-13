@@ -1,9 +1,9 @@
 > 👋 Welcome to my profile, I’m @kyanbasu also known as bnm
 
 - 👀 I’m interested in doing nearly everything associated with coding/IT.
-- 🌱 I’m currently learning js, c#, python and other languages.
-- 🎈 I’m looking to collaborate on some projects.
-- 📧 How to reach me? bnm#9999 on Discord.
+- 🌱 I learned basic js, c#, python and now I am focused to extend my knowledge.
+- 🎈 I’m looking forward to collaborate on some projects.
+- 📧 How to reach me? bnm#1541 on Discord or via my [website](https://bnm.uk.to/about) (still WIP).
 
 <!---
 these are comments
