@@ -3,7 +3,7 @@
 - 👀 I’m interested in doing nearly everything associated with coding/IT.
 - 🌱 I learned basics of js, c#, python and now I am focused to extend my knowledge.
 - 🎈 I’m looking forward to collaborate on some projects.
-- 📧 How to reach me? bnm#1541 on Discord or via my [website](https://bnm.uk.to/about) (still WIP).
+- 📧 How to reach me? bnm#8800 on Discord or via my [website](https://bnm.uk.to/about) (still WIP).
 
 <!---
 these are comments
