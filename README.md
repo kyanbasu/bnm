@@ -13,10 +13,10 @@
 </br>
 <p align="center"> 
   <a href="https://github.com/kyanbasu">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kyanbasu&show_icons=true&theme=synthwave&count_private=true&hide_border=true" />
+    <img height="200" width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=kyanbasu&show_icons=true&card_width=310&theme=synthwave&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/kyanbasu">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyanbasu&layout=compact&langs_count=8&show_icons=true&count_private=true&card_width=320&hide_border=true&theme=synthwave" />
+    <img height="200" width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyanbasu&layout=compact&langs_count=8&show_icons=true&count_private=true&card_width=313&hide_border=true&theme=synthwave" />
   </a>
 </p>
 <p align="center"> 
