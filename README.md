@@ -6,6 +6,7 @@
 - 👀 I’m interested in doing nearly everything associated with coding/IT.
 --->
 
+- 💻 Student at Wrocław University of Science and Technology
 - 🌱 I know basics of js, c#, python and Unity engine now I'm willing to extend my knowledge.
 - ⬛ I have some experience with creating indie games.
 - 🎈 I’m looking forward to collaborate on some projects.
