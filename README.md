@@ -22,7 +22,7 @@
   </a>
 </p>
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyanbasu&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=50%2C030D6B%2C5C196B&fire=EB4EE2&currStreakLabel=EB05CF&stroke=EB4EE2&ring=EB4EE2&dates=EB90DD&sideNums=EBEBEB&sideLabels=EB05CF&currStreakNum=EBEBEB&excludeDaysLabel=EBEBEB" />
+  <img src="https://streak-stats.demolab.com?user=kyanbasu&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=50%2C030D6B%2C5C196B&fire=EB4EE2&currStreakLabel=EB05CF&stroke=EB4EE2&ring=EB4EE2&dates=EB90DD&sideNums=EBEBEB&sideLabels=EB05CF&currStreakNum=EBEBEB&excludeDaysLabel=EBEBEB" />
 </p>
 
 <!---
