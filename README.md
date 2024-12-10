@@ -1,4 +1,4 @@
-![Header](./data/bg-up-optimized-round.png)
+![](./data/bg-rounded.avif)
 <!--- src https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7jzybi57faa91.png upscaled and optimized --->
 
 > 👋 Welcome to my profile, I’m @kyanbasu aka bnm
