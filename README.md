@@ -1,14 +1,12 @@
 ![](./data/bg-rounded.avif)
-<!--- src https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F7jzybi57faa91.png upscaled and optimized --->
 
-> 👋 Welcome to my profile, I’m @kyanbasu aka bnm
-<!---
-- 👀 I’m interested in doing nearly everything associated with coding/IT.
---->
+👋 Hello there, my name's Bartosz
 
+And here's short summary about me:
+- 🥂 Interested in Web, [Game](https://bnmk.itch.io/), XR and Software Development
+- 📡 Enthusiast of FOSS, currently exploring Godot and Typst
 - 💻 Student at Wrocław University of Science and Technology
-- 🥂 Interested in [Game Development](https://bnmk.itch.io/), XR, Web Development, Servers and Linux
-- 🎈 Looking forward to collaborate on some projects.
+- 🎈 Open to collaboration on exciting projects!
 - 📧 How to reach me? 0bnm on [Discord](https://discord.com/users/430629761413414913).
 
 <img src="https://skillicons.dev/icons?i=godot,unity,linux,py,cpp,cs,bash,nodejs,js,html,css,git,typst" />
